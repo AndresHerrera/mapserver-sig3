@@ -20,7 +20,7 @@ MAP
 		UNITS METERS
 
 	WEB
-		IMAGEPATH "/var/www/html/sig3/mapserver/tmp/"
+		IMAGEPATH "/var/www/html/sig3/mapserver-sig3/tmp/"
 		IMAGEURL "tmp/"
 	END
 	
